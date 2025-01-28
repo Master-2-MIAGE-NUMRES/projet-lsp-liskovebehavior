@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lsp_exercice_24_25.iml" filepath="$PROJECT_DIR$/lsp_exercice_24_25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pegasus/pegasus.iml" filepath="$PROJECT_DIR$/pegasus/pegasus.iml" />
     </modules>
   </component>
 </project>
