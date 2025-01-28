@@ -1,11 +1,18 @@
-public class BankAccount {
+public abstract class BankAccount {
 
-    private int Amount;
+    protected int balance;
+
+
+    public BankAccount(int balance) {
+        this.balance = balance;
+    }
 
     public int deposit(int amount) {
-        return Amount+amount;
+        return balance=+amount;
     }
-    public int withdraw(int amount) {
-        return Amount - amount;
+
+
+    public int getBalance() {
+        return balance;
     }
 }
